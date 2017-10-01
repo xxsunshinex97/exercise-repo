@@ -6,3 +6,10 @@ Deleted branch "develop" and try with gitBash.
 First try with GitBash
 It's interesting to use Gitbash.
 My try is successed.
+
+
+
+
+WOWWW!!!!!
+Almost done for today.
+
